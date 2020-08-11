@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container
+{
+	width: 1000px;
+	height: 1000px;
+	margin: 0 auto;
+}
+.header
+{
+	width: 100%;
+
+}
+.head1
+{
+	width: 69%;
+	height: 200px;
+	background-color: red;
+	float: left;
+	padding-left: 3px;
+}
+.head2
+{
+	width: 29%;
+	height: 200px;
+	background-color: red;
+	float: right;
+	padding-left: 3px;
+}
+.content
+{
+	width: 98%;
+	height: 550px;
+
+}
+.content1
+{
+	width: 39%;
+	background-color: yellow;
+	float: left;
+	padding-left: 3px;
+	height: 545px;
+	width: 40%;
+
+}
+.content2
+{
+	width: 58.5%;
+	background-color: purple;
+	float: right;
+	padding: 3px;
+	height: 545px;
+	/*width: 600%;*/
+	
+}
+/*.minicontent1*/
+/*{*/
+	width: 100%;
+	background-color: purple;
+	/*float: right;*/
+	padding: 3px;
+	width: 98%;	
+	clear: both;
+}
+/*.minicontent2*/
+/*{*/
+	width: 100%;
+	background-color: purple;
+	/*float: right;*/
+	padding: 3px;
+	width: 98%;	
+}
